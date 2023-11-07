@@ -1,3 +1,3 @@
-module github.com/abesuite/abeutil
+module github.com/pqabelian/abeutil
 
 go 1.19
